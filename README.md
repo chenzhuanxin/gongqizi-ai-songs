@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo.png" width="120" alt="gongqizi-ai-songs"></p>
+
 # 公歧子的 AI 歌曲全集
 
 本仓库收录「公歧子的 AI 歌曲」全部音频与歌词文档。
